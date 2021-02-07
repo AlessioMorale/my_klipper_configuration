@@ -1,5 +1,6 @@
 # Printer configuration for Klipper
-This repository contains my current printer confiuguration for [Klipper](https://www.klipper3d.org/)
+
+This repository contains my current printer configuration for [Klipper](https://www.klipper3d.org/)
 
 The printer has the following features:
 
